@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackiepiepkorn
 - 👀 I’m interested in AI and Bioinformatics.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Computer Organization and Systems Programming in C and Assembly languages.
 - 💞️ I’m looking to collaborate on projects related to Machine Learning.
 - 📫 How to reach me: jpiepkorn@ucsd.edu, jackiepiepkorn@gmail.com
 
