@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on projects related to Machine Learning or Software Engineering.
 - 📫 How to reach me: jpiepkorn@ucsd.edu, jackiepiepkorn@gmail.com
 
--👩‍💻 ACM AI Image Classification Project: https://github.com/jackiepiepkorn/ACM-AI-Project
--👩‍💻 ACM AI Natural Language Processing Workshops:
+- 👩‍💻 You can find my ACM AI Computer Vision project, ACM AI Natural Language Processing WOrkshops, and my Software Tools and Techniques blog in my pinned repositories!
+- 👩‍💻 To accesss ACM AI Natural Language Processing Workshops: click the acm-ai-repositories pin and go to SP22/nlp-series
 
 <!---
 jackiepiepkorn/jackiepiepkorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
