@@ -5,7 +5,7 @@
 - 📫 How to reach me: jackiepiepkorn@gmail.com, jpiepkorn@ucsd.edu
 
 - 👩‍💻 You can find my ACM AI Computer Vision project, ACM AI Natural Language Processing Workshops, and my Software Tools and Techniques blog in my pinned repositories!
-- 👩‍💻 To accesss ACM AI Natural Language Processing Workshops: click the acm-ai-repositories pin and go to SP22/nlp-series
+- 👩‍💻 To accesss ACM AI Natural Language Processing Workshops: click the acm-ai-workshops pin and go to the SP22/nlp-series folder
 
 <!---
 jackiepiepkorn/jackiepiepkorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
