@@ -4,7 +4,7 @@
 <!--- - 💞️ I’m looking to collaborate on projects related to Machine Learning or Software Engineering. --->
 - 📫 How to reach me: jackiepiepkorn@gmail.com, jpiepkorn@ucsd.edu
 
-- 👩‍💻 You can find my ACM AI Computer Vision project, ACM AI Natural Language Processing WOrkshops, and my Software Tools and Techniques blog in my pinned repositories!
+- 👩‍💻 You can find my ACM AI Computer Vision project, ACM AI Natural Language Processing Workshops, and my Software Tools and Techniques blog in my pinned repositories!
 - 👩‍💻 To accesss ACM AI Natural Language Processing Workshops: click the acm-ai-repositories pin and go to SP22/nlp-series
 
 <!---
