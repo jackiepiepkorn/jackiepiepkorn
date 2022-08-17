@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to Machine Learning or Software Engineering.
 - 📫 How to reach me: jpiepkorn@ucsd.edu, jackiepiepkorn@gmail.com
 
--👩‍💻 ACM AI Image Classification Project:
+-👩‍💻 ACM AI Image Classification Project: https://github.com/jackiepiepkorn/ACM-AI-Project
 -👩‍💻 ACM AI Natural Language Processing Workshops:
 
 <!---
