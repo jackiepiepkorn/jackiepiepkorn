@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackiepiepkorn
 - 👀 I’m interested in Software and AI.
-- 🌱 I’m currently learning Computer Organization and Systems Programming in C and Assembly languages.
+- 🌱 I’m currently learning high-performance data structures and supporting algorithms, as well as theoretical and practical performance analysis.
 <!--- - 💞️ I’m looking to collaborate on projects related to Machine Learning or Software Engineering. --->
 - 📫 How to reach me: jackiepiepkorn@gmail.com, jpiepkorn@ucsd.edu
 
