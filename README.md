@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackiepiepkorn
 - 👀 I’m interested in Software and AI.
-- 🌱 I’m currently learning data science and software engineering techniques in Python at my @Microsoft internship.
+- 🌱 I’m currently learning data science and software engineering techniques in Python @ my Microsoft internship.
 <!--- - 💞️ I’m looking to collaborate on projects related to Machine Learning or Software Engineering. --->
 - 📫 How to reach me: jackiepiepkorn@gmail.com, jpiepkorn@ucsd.edu
 
