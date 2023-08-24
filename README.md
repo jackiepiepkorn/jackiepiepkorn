@@ -8,7 +8,7 @@
 - 👩‍💻 In my pinned repositories, you can find my:
   - ACM AI Computer Vision project
   - ACM AI Workshops, including Natural Language Processing
-  - Software Engineering Class Project (https://baeometer.com)[https://baeometer.com] (Repo Name: cse110-sp23-group28/cse110-sp23-group28)
+  - Software Engineering Class Project [https://baeometer.com](https://baeometer.com) (Repo Name: cse110-sp23-group28/cse110-sp23-group28)
   - Software Tools and Techniques blog
 
 <!---
