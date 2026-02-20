@@ -7,7 +7,7 @@
 <!--- - 💞️ I’m looking to collaborate on projects related to Machine Learning or Software Engineering. --->
 - 📫 How to reach me: jackiepiepkorn@gmail.com, jpiepkorn@ucsd.edu
 
-- 👩‍💻 In my pinned repositories, you can find my:
+- 👩‍💻 In my pinned repositories, you can find my undergrad projects:
   - ACM AI Computer Vision project
   - ACM AI Workshops, including Natural Language Processing
   - Software Engineering Class Project [(https://baeometer.com)](https://baeometer.com) (Repo Name: cse110-sp23-group28/cse110-sp23-group28)
