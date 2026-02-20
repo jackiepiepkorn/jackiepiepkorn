@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jackiepiepkorn
 - 👀 I’m interested in Software and AI.
 - 🌱 I’m currently a Software Engineer @ Microsoft
+- 📘 I'm also pursuing my Master's in Computer Science at UC San Diego
 - 📄 View my resume [here](https://tinyurl.com/jackie-resume) (Download as PDF for best viewing)
 <!--- - 💞️ I’m looking to collaborate on projects related to Machine Learning or Software Engineering. --->
 - 📫 How to reach me: jackiepiepkorn@gmail.com, jpiepkorn@ucsd.edu
